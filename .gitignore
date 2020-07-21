@@ -23,3 +23,4 @@ nuget.exe
 *.ipch
 /*.vspx
 
+*.v2
